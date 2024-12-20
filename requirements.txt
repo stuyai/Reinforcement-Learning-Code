@@ -5,7 +5,7 @@ cycler==0.12.1
 Farama-Notifications==0.0.4
 filelock==3.16.1
 fonttools==4.55.3
-fsspec==2024.10.0
+fsspec==2024.12.0
 gym==0.26.2
 gym-notices==0.0.8
 gymnasium==1.0.0
